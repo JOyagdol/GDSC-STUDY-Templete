@@ -16,6 +16,7 @@ Share study reference
 
 
 ### 1. Fork
+![image](https://user-images.githubusercontent.com/86817044/193333177-ddf2d324-d48a-4045-9641-61703747d4da.png)
 
 
 ### 2. Write Study Content
