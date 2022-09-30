@@ -1,13 +1,13 @@
-# Study Title
+# 📕Study Title
 Add a study introduction
 
-# Study Curriculum
+# 📝Study Curriculum
 Write a study curriculum.
 
-# Study Reference
+# 📑Study Reference
 Share study reference
 
-# Study Progress Management Guide
+# 🪧Study Progress Management Guide
 ### 0. Create Branch with name
 
 
